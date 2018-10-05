@@ -24,6 +24,8 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Omantunnon mato
 
   3-näytöksinen (4 kuvaelmaa) kansannäytelmä lauluineen'
